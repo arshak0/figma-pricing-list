@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Euclid Circular A";
+    src: url("fonts/euclid-circular-a/Euclid Circular A Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Euclid Circular A";
+    src: url("fonts/euclid-circular-a/Euclid Circular A Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Euclid Circular A";
+    src: url("fonts/euclid-circular-a/Euclid Circular A Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url("fonts/gilroy-bold/Gilroy-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url("fonts/gilroy-bold/Gilroy-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url("fonts/gilroy-bold/Gilroy-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
